@@ -103,7 +103,7 @@ But the brain is not the only network you carry around. In fact, YOU, your whole
 
 ![The Human body as a network *via* [https://doi.org/10.3389/fphys.2020.598694](https://doi.org/10.3389/fphys.2020.598694)](images/body.jpg){width=300}
 
-The brain is a **biological** network, because the nodes are biological units (neurons) as are the connections. And the same goes for the varioius organs and physiological systems that compose your body. Other biological networks include **ecosystems** were the nodes are species and the links are various types of relations between, some antagonistic (predator/prey) and others mutualistic.
+The brain is a **biological** network, because the nodes are biological units (neurons) as are the connections. And the same goes for the various organs and physiological systems that compose your body. Other biological networks include **ecosystems** were the nodes are species and the links are various types of relations between, some antagonistic (predator/prey) and others mutualistic.
 
 ![Network of Symptoms in the Diagnostic and Statistical Manual of Mental Disorders. Image from [https://doi.org/10.1371/journal.pone.0137621](https://doi.org/10.1371/journal.pone.0137621)](images/symptoms.png){#fig-symptoms}
 
